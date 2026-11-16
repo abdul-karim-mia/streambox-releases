@@ -1,1 +1,8 @@
-﻿{"versionCode": 1, "versionName": "1.0.0", "apkUrl": "", "sha256": "", "changelog": "Initial release", "minVersionCode": 1}
+﻿{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/abdul-karim-mia/streambox-releases/releases/download/v1.0.0/StreamBox-1.0.0.apk",
+  "sha256": "d16fe7e4e821d2b9e058e341a327a79510338245acb46a1d2d5d48ba9c938ec9",
+  "changelog": "First official release: StreamBox branding, preferred streaming quality & language, in-app updates",
+  "minVersionCode": 1
+}
