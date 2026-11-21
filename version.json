@@ -1,8 +1,8 @@
 ﻿{
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/abdul-karim-mia/streambox-releases/releases/download/v1.0.1/StreamBox-1.0.1.apk",
-  "sha256": "a3f7c88ccac8fe3dbad55f2ab894262ed47eb930bf3bfd2fcf1d07333289ab95",
-  "changelog": "Fixes details-page crash from duplicate cast/staff IDs. Drops null tags. Description 2 lines, tap to expand. More Like This paginates with infinite scroll. Screen-rotate button removed, new player lock button blocks all controls and gestures, swipe up to fullscreen. Same changes on TV.",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/abdul-karim-mia/streambox-releases/releases/download/v1.0.3/StreamBox-1.0.3.apk",
+  "sha256": "1b95a6ff66c8eded61779e9f216662fe4889fa3c806f366d83f9d3bdab49c2fe",
+  "changelog": "Removes the in-app browser and web promo sections. Manual updates can still be downloaded from the GitHub releases page in your browser. Includes the in-app update install fix.",
   "minVersionCode": 1
 }
